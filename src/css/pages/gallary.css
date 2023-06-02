@@ -1,0 +1,82 @@
+.gallary-page h2 {
+  color: var(--text-color);
+  font-size: 2rem;
+}
+
+.gallary-page p {
+  margin: 10px 10%;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+/*##########
+banner
+###########*/
+
+.gallary-page .banner {
+  position: relative;
+  width: 100%;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+
+.gallary-page .banner-image {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+@media screen and (max-width: 620px) {
+  .gallary-page .banner-image {
+    width: unset;
+    height: 100%;
+  }
+}
+
+.gallary-page h1 {
+  color: white;
+  font-size: 6rem;
+}
+
+/*##########
+category selector
+###########*/
+
+.gallary-page .category-selector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--primary-background);
+  border-top: solid 15px var(--section-border);
+}
+
+.gallary-page .selected {
+  border: solid black 2px;
+}
+
+.gallary-page .category-selector h3 {
+  margin: 10px auto;
+  font-size: 2rem;
+  color: var(--text-color);
+  background-color: var(--secondary-background);
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+  user-select: none;
+}
+
+@media screen and (max-width: 1260px) {
+  .gallary-page .category-selector h3 {
+    display: inline-block;
+    margin: 20px;
+  }
+
+  .gallary-page .category-selector {
+    display: block;
+  }
+}

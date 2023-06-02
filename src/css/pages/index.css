@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Rubik", sans-serif;
+
+  --text-color: #7161ef;
+  --section-border: rgb(155, 155, 155);
+  --suttle-border: #b79ced;
+  --primary-background: white;
+  --secondary-background: rgb(197, 197, 197);
+}
+
+.ltr {
+  direction: ltr;
+}

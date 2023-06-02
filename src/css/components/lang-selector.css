@@ -1,0 +1,9 @@
+.lang-selector {
+  position: fixed;
+  background-color: white;
+  z-index: 20;
+  bottom: 0;
+  font-size: 2rem;
+  background-color: var(--primary-background);
+  color: var(--text-color);
+}

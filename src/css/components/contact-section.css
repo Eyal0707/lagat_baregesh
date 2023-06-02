@@ -1,0 +1,25 @@
+.contact {
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background: var(--primary-background);
+}
+
+.contact h2 {
+  color: var(--text-color);
+}
+
+.images {
+  width: 30%;
+  height: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .contact {
+    flex-direction: column;
+    height: 100vh;
+  }
+}

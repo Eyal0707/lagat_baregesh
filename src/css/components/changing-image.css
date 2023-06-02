@@ -1,0 +1,22 @@
+.changing-image {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.changing-image img {
+  position: absolute;
+  max-width: 90%;
+  max-height: 90%;
+  transition: opacity 0.5s;
+  border: solid 5px #03045e;
+}
+
+@media screen and (max-width: 800px) {
+  .changing-image {
+    width: 100%;
+  }
+}

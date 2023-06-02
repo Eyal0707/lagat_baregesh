@@ -1,0 +1,76 @@
+.product-page h2 {
+  color: var(--text-color);
+  font-size: 2rem;
+}
+
+.product-page h1 {
+  font-size: 3rem;
+  color: var(--text-color);
+}
+
+.product-page p {
+  margin: 10px 10%;
+  font-size: 1.2rem;
+}
+
+/*#########
+banner
+###########*/
+
+.product-page .banner {
+  width: 100%;
+  height: 15vh;
+  background-color: var(--secondary-background);
+  border-bottom: 2px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*#########
+product section
+###########*/
+
+.product-page .product-section {
+  width: 100%;
+  height: 60vh;
+  position: relative;
+  display: flex;
+  background-color: var(--primary-background);
+  border-bottom: solid var(--section-border) 10px;
+}
+
+.product-page .product-details {
+  width: 50%;
+  height: 100%;
+  padding: 50px;
+  position: relative;
+}
+
+.product-page .image-room {
+  width: 50%;
+  position: relative;
+  height: 100%;
+}
+
+.product-page .product-image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 10px;
+  max-width: 90%;
+  max-height: 90%;
+  border: 2px solid white;
+}
+
+.product-page .product-details-extra {
+  position: absolute;
+  display: flex;
+  bottom: 0;
+  width: 100%;
+}
+
+.product-page .product-details-extra > h2 {
+  margin: auto;
+  margin-bottom: 10px;
+}

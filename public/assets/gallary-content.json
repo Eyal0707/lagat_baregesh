@@ -1,0 +1,115 @@
+﻿{
+  "itemsHebrew": [
+    {
+      "id": 1,
+      "image": "/assets/images/the-lubavich-rabi.jpg",
+      "name": "הרבי מילובוויץ'",
+      "size": "4x1",
+      "price": "100 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "ריאליסטי"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/hope.jpg",
+      "name": "תקווה",
+      "size": "4x2",
+      "price": "200 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "אבסטרקט"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/food-blessing.jpg",
+      "name": "בראשית",
+      "size": "4x3",
+      "price": "300 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "תלת-מימד"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/key1.jpg",
+      "name": "מפתח סימבולי",
+      "size": "4x1",
+      "price": "300 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "מפתחות סימבולים"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/reborn.jpg",
+      "name": "בראשית",
+      "size": "4x3",
+      "price": "300 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "סוריאליסטי"
+    },
+    {
+      "id": "6",
+      "image": "/assets/images/poetry1.jpg",
+      "name": "שיר",
+      "size": "4x3",
+      "price": "300 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "ספרות ואומנות (יעלה בקרוב)"
+    }
+  ],
+
+  "itemsEnglish": [
+    {
+      "id": 1,
+      "image": "/assets/images/the-lubavich-rabi.jpg",
+      "name": "Rabi Mulobavich",
+      "size": "4x1",
+      "price": "100 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "Realistic"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/hope.jpg",
+      "name": "Hope",
+      "size": "4x2",
+      "price": "200 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "Abstract"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/food-blessing.jpg",
+      "name": "The Begining",
+      "size": "4x3",
+      "price": "300 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "3D"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/key1.jpg",
+      "name": "Symbolic Key",
+      "size": "4x1",
+      "price": "300 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "Symbolic Keys"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/reborn.jpg",
+      "name": "The Begining",
+      "size": "4x3",
+      "price": "300 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "Surrealistic"
+    },
+    {
+      "id": "6",
+      "image": "/assets/images/poetry1.jpg",
+      "name": "Song",
+      "size": "4x3",
+      "price": "300 שקלים",
+      "description": "אומנות יצירה ציור",
+      "category": "literature and art(soon)"
+    }
+  ]
+}

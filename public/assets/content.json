@@ -1,0 +1,279 @@
+﻿{
+  "Hebrew": {
+    "navItems": [
+      { "name": "לגעת ברגש", "path": "/" },
+      { "name": "גלריה", "path": "/gallary" },
+      { "name": "כתבות", "path": "/articles" },
+      { "name": "קטלוג", "path": "/assets/catalogs/hebrew-catalog.pdf" }
+    ],
+
+    "contactSection": {
+      "title": "צור קשר",
+      "name": "שם",
+      "email": "מייל",
+      "phone": "טלפון",
+      "message": "הודעה",
+      "submit": "שלח",
+      "sentFeedback": "ההודעה נשלחה",
+      "failedFeedback": "ההודעה לא נשלחה נסה שוב מאוחר יותר",
+      "fillFieldsFeedback": "יש למלא את כל השדות",
+      "cooldownFeedback": "יש לחכות 25 שניות בין שליחת הודעות",
+      "loading": "שולח..."
+    },
+
+    "footer": {
+      "phoneTitle": "טלפון:",
+      "phone1": " מנהלת הגלריה, לוטי אלי: 0524502025",
+      "phone2": "האומן אורי אלי: 0525197700",
+      "email": "מייל: LagatBaregesh11@gmail.com"
+    },
+
+    "homePage": {
+      "title": "לגעת-ברגש",
+      "subTitleI": "צבע",
+      "subTitleII": "נשמה",
+      "subTitleIII": "ורוח",
+
+      "detailsIntroTitle": "אירועים וחוויות בגלריה",
+      "detailsIntroText": "בגלריה שלנו ניתן להנות מערבים פתוחים של שיח אומן בנושאים מרתקים ומגוונים",
+      "detailsIntroListI": "לגעת ברגש דרך הצבע",
+      "detailsIntroListII": "הבנת הקשר בין הצבע למין האנושי",
+      "detailsIntroListIII": "חווית צליל וצבע- חוויה רוחנית ואמנותית",
+
+      "detailsTitleI": "שעות פתיחת הגלריה",
+      "detailsSubTitleI": "בתיאום מראש",
+      "detailsTitleII": "כתובת",
+      "openingHoursI": "ימים א'-ה': 16:30 - 21:30",
+      "openingHoursII": " יום ו': 10:00 - 12:00",
+      "openingHoursIII": "מוצאי שבת: 20:00 - 21:30",
+      "address": "לב העיר 12 מודיעין",
+
+      "aboutTitle": "על האומן",
+      "aboutText": "גלריה וסטודיו לאומנות בשם \"לגעת ברגש\". בגלריה ובסטודיו של האומן אורי אלי מוצגות תמונות מתקופות שונות. רבות מיצירותיו מוצגות במוזיאונים מפורסמים בארץ ובעולם. אנו מזמינים אתכם לקפה גלריה לשיח עם האומן ,להיחשף ליצירותיו ולעבור חוויה רוחנית וריגשית"
+    },
+    "gallary": {
+      "title": "גלריה",
+      "catagories": [
+        "הכל",
+        "ריאליסטי",
+        "סוריאליסטי",
+        "אבסטרקט",
+        "תלת-מימד",
+        "מפתחות סימבולים",
+        "ספרות ואומנות (יעלה בקרוב)"
+      ]
+    },
+    "articlesPage": {
+      "title": "כתבות מהארץ ומהעולם"
+    }
+  },
+
+  "English": {
+    "navItems": [
+      { "name": "Lagat Baregesh", "path": "/" },
+      { "name": "Gallery", "path": "/gallary" },
+      { "name": "Featured", "path": "/articles" },
+      { "name": "Catalog", "path": "/assets/catalogs/english-catalog.pdf" }
+    ],
+
+    "contactSection": {
+      "title": "contact",
+      "name": "name",
+      "email": "email",
+      "phone": "phone",
+      "message": "message",
+      "submit": "send",
+      "sentFeedback": "message sent",
+      "failedFeedback": "message not sent. try again later",
+      "fillFieldsFeedback": "you must fill all fields",
+      "cooldownFeedback": "you must wait 25 seconds to send a new message",
+      "loading": "sending..."
+    },
+
+    "footer": {
+      "phoneTitle": "phone:",
+      "phone1": "Gallary mannager, Loti Eli: 0524502025",
+      "phone2": "the artist Uri Eli: 0525197700",
+      "email": "email: lagatBaregesh@gmail.com"
+    },
+
+    "homePage": {
+      "title": "lagat-baregesh",
+      "subTitleI": "color",
+      "subTitleII": "soul",
+      "subTitleIII": "spirit",
+
+      "detailsIntroTitle": "Events and experiences in the gallery",
+      "detailsIntroText": "In our gallery you can enjoy open evenings of artist talk on fascinating topics:",
+      "detailsIntroListI": "Touch emotion through color",
+      "detailsIntroListII": "Understanding the connection between color and the human race",
+      "detailsIntroListIII": "Sound and color experience - a spiritual experience",
+
+      "detailsTitleI": "Opening Hours",
+      "detailsSubTitleI": "By appointment",
+      "detailsTitleII": "Address",
+      "detailsText": "Gallery and art studio called \" Touching Emotion \". In the gallery and studio of the international artist Uri Eli, pictures from different periods are displayed. Many of his works are displayed in famous museums in Israel and around the world.",
+      "openingHoursI": "sun-thu: 16:30-21:30",
+      "openingHoursII": "fri: 12:00-10:00",
+      "openingHoursIII": "sat: 21:30-20:00",
+      "address": "city center",
+
+      "aboutTitle": "About",
+      "aboutText": "Gallery and art studio called \" Touching Emotion \". In the gallery and studio of the international artist Uri Eli, pictures from different periods are displayed. Many of his works are displayed in famous museums in Israel and around the world."
+    },
+    "gallary": {
+      "title": "Gallery",
+      "catagories": [
+        "All",
+        "Realistic",
+        "Surrealistic",
+        "Abstract",
+        "3D",
+        "Symbolic Keys",
+        "literature and art(soon)"
+      ]
+    },
+
+    "articlesPage": {
+      "title": "newspapers from around the world"
+    }
+  },
+
+  "Media": {
+    "Logo": "/assets/images/logo.png",
+    "contactSection": {
+      "display1": [
+        "/assets/images/Enlightment.jpg",
+        "/assets/images/deapth-of-my-soul.jpg",
+        "/assets/images/the-begining.jpg",
+        "/assets/images/4-elements.jpg",
+        "/assets/images/blessing-from-heaven.jpg",
+        "/assets/images/escaped-soul.jpg",
+        "/assets/images/heaven-fountain.jpg",
+        "/assets/images/heavens-help.jpg",
+        "/assets/images/hope.jpg",
+        "/assets/images/reborn.jpg",
+        "/assets/images/the-day-after.jpg",
+        "/assets/images/the-lubavich-rabi.jpg"
+      ],
+      "display2": [
+        "/assets/images/4-elements.jpg",
+        "/assets/images/blessing-from-heaven.jpg",
+        "/assets/images/escaped-soul.jpg",
+        "/assets/images/heaven-fountain.jpg",
+        "/assets/images/heavens-help.jpg",
+        "/assets/images/hope.jpg",
+        "/assets/images/reborn.jpg",
+        "/assets/images/the-day-after.jpg",
+        "/assets/images/the-lubavich-rabi.jpg",
+        "/assets/images/Enlightment.jpg",
+        "/assets/images/deapth-of-my-soul.jpg",
+        "/assets/images/the-begining.jpg"
+      ]
+    },
+
+    "homePage": {
+      "banner": "/assets/images/the-day-after.jpg",
+      "detailsImage": "/assets/images/deapth-of-my-soul.jpg",
+      "aboutImage": [
+        "/assets/images/uri1.jpg",
+        "/assets/images/uri2.jpg",
+        "/assets/images/uri3.jpg",
+        "/assets/images/uri4.jpg",
+        "/assets/images/uri5.jpg"
+      ]
+    },
+
+    "gallaryPage": {
+      "banner": "/assets/images/the-day-after.jpg"
+    },
+
+    "articlesPage": {
+      "banner": "/assets/images/the-day-after.jpg",
+
+      "hashivenu": [
+        "/assets/newspapers/hashivenu/hashivenu1.jpg",
+        "/assets/newspapers/hashivenu/hashivenu2.jpg",
+        "/assets/newspapers/hashivenu/hashivenu3.jpg"
+      ],
+
+      "moznaiim": [
+        "/assets/newspapers/moznaiim/moznaiim1.jpg",
+        "/assets/newspapers/moznaiim/moznaiim2.jpg",
+        "/assets/newspapers/moznaiim/moznaiim3.jpg",
+        "/assets/newspapers/moznaiim/moznaiim4.jpg"
+      ],
+
+      "titles": [
+        "/assets/newspapers/titles/title2.jpg",
+        "/assets/newspapers/titles/title3.jpg",
+        "/assets/newspapers/titles/title4.jpg",
+        "/assets/newspapers/titles/title5.jpg",
+        "/assets/newspapers/titles/title6.jpg",
+        "/assets/newspapers/titles/title7.jpg",
+        "/assets/newspapers/titles/title8.jpg"
+      ],
+
+      "candles": [
+        "/assets/newspapers/et-lahsov/candles/candles1.jpg",
+        "/assets/newspapers/et-lahsov/candles/candles2.jpg",
+        "/assets/newspapers/et-lahsov/candles/candles3.jpg",
+        "/assets/newspapers/et-lahsov/candles/candles4.jpg",
+        "/assets/newspapers/et-lahsov/candles/candles5.jpg",
+        "/assets/newspapers/et-lahsov/candles/candles6.jpg"
+      ],
+
+      "ladder": [
+        "/assets/newspapers/et-lahsov/ladder/ladder1.jpg",
+        "/assets/newspapers/et-lahsov/ladder/ladder2.jpg",
+        "/assets/newspapers/et-lahsov/ladder/ladder3.jpg",
+        "/assets/newspapers/et-lahsov/ladder/ladder4.jpg",
+        "/assets/newspapers/et-lahsov/ladder/ladder5.jpg",
+        "/assets/newspapers/et-lahsov/ladder/ladder6.jpg",
+        "/assets/newspapers/et-lahsov/ladder/ladder7.jpg"
+      ],
+
+      "seaOpen": [
+        "/assets/newspapers/et-lahsov/sea-open/sea-open1.jpg",
+        "/assets/newspapers/et-lahsov/sea-open/sea-open2.jpg",
+        "/assets/newspapers/et-lahsov/sea-open/sea-open3.jpg",
+        "/assets/newspapers/et-lahsov/sea-open/sea-open4.jpg"
+      ],
+
+      "shofar": [
+        "/assets/newspapers/et-lahsov/shofar/shofar1.jpg",
+        "/assets/newspapers/et-lahsov/shofar/shofar2.jpg",
+        "/assets/newspapers/et-lahsov/shofar/shofar3.jpg",
+        "/assets/newspapers/et-lahsov/shofar/shofar4.jpg",
+        "/assets/newspapers/et-lahsov/shofar/shofar5.jpg",
+        "/assets/newspapers/et-lahsov/shofar/shofar6.jpg"
+      ],
+
+      "skyFountain": [
+        "/assets/newspapers/et-lahsov/sky-fountain/sky-fountain1.jpg",
+        "/assets/newspapers/et-lahsov/sky-fountain/sky-fountain2.jpg",
+        "/assets/newspapers/et-lahsov/sky-fountain/sky-fountain3.jpg",
+        "/assets/newspapers/et-lahsov/sky-fountain/sky-fountain4.jpg",
+        "/assets/newspapers/et-lahsov/sky-fountain/sky-fountain5.jpg",
+        "/assets/newspapers/et-lahsov/sky-fountain/sky-fountain6.jpg",
+        "/assets/newspapers/et-lahsov/sky-fountain/sky-fountain7.jpg"
+      ],
+
+      "diffarentLife": [
+        "/assets/newspapers/different-life/different-life1.jpg",
+        "/assets/newspapers/different-life/different-life2.jpg"
+      ],
+
+      "seven": [
+        "/assets/newspapers/seven/seven1.jpg",
+        "/assets/newspapers/seven/seven2.jpg"
+      ],
+
+      "jewish": [
+        "/assets/newspapers/jewish/jewish1.jpg",
+        "/assets/newspapers/jewish/jewish2.jpg",
+        "/assets/newspapers/jewish/jewish3.jpg"
+      ]
+    }
+  }
+}
